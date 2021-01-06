@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Build a JavaScript Calculator React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Check more here https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator
 
 ## Available Scripts
 
