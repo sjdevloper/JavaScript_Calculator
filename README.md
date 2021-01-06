@@ -9,7 +9,7 @@
  </ul>
 
 ## Demo
-![](ScreenShort.png)
+![](ScreenShot.png)
 
 
 ## Installation
